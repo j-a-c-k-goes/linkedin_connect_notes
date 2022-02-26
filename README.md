@@ -1,30 +1,44 @@
--- LinkedIn Connect Messages --
-feb 2022 
-written in python3
-used to speed up composing Linkedin connect notes
+# LinkedIn Connect Messages
 
--- do i have python3? --
-open your terminal window / ide
+Feb 2022 
 
-check version of python
-	python3 --version
+Written in python3
 
-(if not installed) install python3
+Use to speed up composing Linkedin connect notes
 
--- where do i to install python 3? --
-🔗 https://realpython.com/installing-python/
+## Do I have python3?
 
--- are there any requirements? --
-the only requirement module @ this time is pyperclip < 1.8.2
-	pip install -r requirements.txt
+Open your terminal window / ide
 
--- how do i run? --
-open terminal / ide
-	python3 reddit_crawl.py
+Check version of python
+
+`python3 --version`
+
+**(if not installed) Install Python3**
+
+## Where Do I to install python 3?
+**🔗 https://realpython.com/installing-python/**
+
+*(there are other links, methods as well. just run a quick search)*
+
+## Are there any requirements?
+
+The only requirement module @ this time is pyperclip < 1.8.2
+
+`pip install -r requirements.txt`
+
+## How do I run?
+
+Open terminal / ide
+
+`python3 reddit_crawl.py`
 	
--- where is my output? --
-results copied to clipboard (if sole result)
-results written into text file (if multiple results)
+## Where is my output?
 
--- can i make this better? --
-of course! make a pull request or fork :)
+(If sole result) results are copied to clipboard 
+(If multiple results) results written into text file 
+
+## Can I make improvements?
+Of course! make a pull request/fork/clone
+
+[https://github.com/j-a-c-k-goes/linkedin_connect_notes]
